@@ -1,0 +1,19 @@
+{
+  "name": "hello_world",
+  "version": "1.0.0",
+  "description": "Assemblyscript smart contract project setup",
+  "main": "index.js",
+  "scripts": {
+    "test": "asp",
+    "build": "asb"
+  },
+  "keywords": [
+    "nearprotocol",
+    "sankore"
+  ],
+  "author": "Paul Otieno",
+  "license": "ISC",
+  "devDependencies": {
+    "near-sdk-as": "^3.2.3"
+  }
+}
