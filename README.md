@@ -68,3 +68,11 @@ Navigate to `./assembly/index.ts` file. It's content is as shown below:
 # Note
 
 _Do not change the contents of the unit tests_
+
+# Resources
+
+1. Something to [`Read`](https://drive.google.com/drive/folders/178Ncntpd5jO_YYHUPrOqZt5eOoxYo6oQ?usp=sharing).
+
+2. Something to [`Watch`](https://youtube.com/playlist?list=PLF4mfyMzLVGvL-DetJKwQhkbzSp-YIqCs).
+
+3. [`Bonus`](https://hackmd.io/@nearly-learning/ncd) resources
