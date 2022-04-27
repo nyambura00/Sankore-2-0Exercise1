@@ -1,6 +1,8 @@
 // import Context from near-sdk-as
 // code goes here
 
+import { Context } from 'near-sdk-as';
+
 /**
  * Edit helloWorld() function code such that it returns the word "hello world!"
  */
