@@ -8,6 +8,7 @@ import { Context } from 'near-sdk-as';
  */
 export function helloWorld(): string {
   // code goes here
+  return `hello world!`
 }
 
 /**
@@ -18,4 +19,6 @@ export function helloWorld(): string {
  */
 export function greeting(name: string): string {
   // code goes here
+  const outputString = name + Context.sender ;
+  return outputString;
 }
